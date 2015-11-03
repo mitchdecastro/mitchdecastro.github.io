@@ -1,0 +1,91 @@
+/* NAVIGATION STYLES */
+nav {
+    height: 0;
+    padding: 50px 0;
+    text-transform: none;
+}
+
+nav ul {
+    list-style: none;
+    text-align: right;
+    padding-top: 10px;
+}
+
+nav li {
+    display: inline-block;
+    padding-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+}
+
+/* HERO STYLES */
+
+.hero {
+    background-color: none;
+    height: 300px;
+    margin-bottom: 250px;
+}
+
+.hero h3 {
+    padding-top: 225px;
+    color: #2D2D3C;
+}
+
+/* ABOUT STYLES */
+
+.about {
+
+    padding-top: 100px;
+}
+
+/* HORROR HAVEN STYLES */
+
+.horror-haven {
+    background-color: none;
+    height: 300px;
+}
+
+.horror-haven h4 {
+    color: #2D2D3C;
+}
+
+.horror-haven a {
+    text-decoration: none;
+}
+
+/* HULL STYLES */
+
+.hull {
+    background-color: none;
+    height: 300px;
+}
+
+.hull h4 {
+    color: #2D2D3C;
+}
+
+.hull a {
+    text-decoration: none;
+}
+/* ALL-FIRED EXPRESS STYLES */
+
+.all-fired-express {
+    background-color: none;
+    height: 300px;
+}
+
+.all-fired-express h4 {
+    color: #2D2D3C;
+}
+
+.all-fired-express a {
+    text-decoration: none;
+}
+
+/* FOOTER STYLES */
+
+.footer {
+    padding-top: 100px;
+}
