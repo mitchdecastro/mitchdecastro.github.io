@@ -91,10 +91,3 @@ nav a {
 }
 
 /* MEDIA QUERIES */
-
-@media (min-width: 400px) {
-    nav {
-        text-align: center;
-    }
-
-}
