@@ -89,3 +89,12 @@ nav a {
 .footer {
     padding-top: 100px;
 }
+
+/* MEDIA QUERIES */
+
+@media (min-width: 400px) {
+    nav {
+        text-align: center;
+    }
+
+}
