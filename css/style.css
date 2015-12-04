@@ -31,6 +31,18 @@ nav a {
     color: #2D2D3C;
 }
 
+.hero-main ul {
+    list-style: none;
+}
+
+.hero-main li {
+    display: inline-block;
+}
+
+.hero-main a {
+    text-decoration: none;
+}
+
 .hero {
     height: 300px;
     margin-bottom: 375px;
