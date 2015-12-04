@@ -23,7 +23,6 @@ nav a {
 /* HERO STYLES */
 
 .hero {
-    background-color: none;
     height: 300px;
     margin-bottom: 250px;
 }
@@ -51,49 +50,6 @@ nav a {
 }
 
 .work a {
-    text-decoration: none;
-}
-/* HORROR HAVEN STYLES 
-
-.horror-haven {
-    background-color: none;
-    height: 300px;
-}
-
-.horror-haven h4 {
-    color: #2D2D3C;
-}
-
-.horror-haven a {
-    text-decoration: none;
-}
-
-/* HULL STYLES 
-
-.hull {
-    background-color: none;
-    height: 300px;
-}
-
-.hull h4 {
-    color: #2D2D3C;
-}
-
-.hull a {
-    text-decoration: none;
-}
-/* ALL-FIRED EXPRESS STYLES 
-
-.all-fired-express {
-    background-color: none;
-    height: 300px;
-}
-
-.all-fired-express h4 {
-    color: #2D2D3C;
-}
-
-.all-fired-express a {
     text-decoration: none;
 }
 
