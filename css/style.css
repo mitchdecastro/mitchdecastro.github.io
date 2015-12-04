@@ -32,6 +32,14 @@ nav a {
     color: #2D2D3C;
 }
 
+.hero ul {
+    list-style: none;
+}
+
+.hero li {
+    display: inline-block;
+}
+
 .hero a {
     text-decoration: none;
 }
