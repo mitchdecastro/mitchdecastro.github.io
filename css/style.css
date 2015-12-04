@@ -43,10 +43,6 @@ nav a {
     text-decoration: none;
 }
 
-.hero-main a:hover{
-    text-decoration: underline;
-}
-
 /* HERO STYLES */
 
 .hero {
