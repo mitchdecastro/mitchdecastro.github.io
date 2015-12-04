@@ -40,7 +40,20 @@ nav a {
     padding-top: 100px;
 }
 
-/* HORROR HAVEN STYLES */
+/* INDEX WORK STYLES */
+
+.work {
+    height: 300px;
+}
+
+.work h4 {
+    color: #2D2D3C;
+}
+
+.work a {
+    text-decoration: none;
+}
+/* HORROR HAVEN STYLES 
 
 .horror-haven {
     background-color: none;
@@ -55,7 +68,7 @@ nav a {
     text-decoration: none;
 }
 
-/* HULL STYLES */
+/* HULL STYLES 
 
 .hull {
     background-color: none;
@@ -69,7 +82,7 @@ nav a {
 .hull a {
     text-decoration: none;
 }
-/* ALL-FIRED EXPRESS STYLES */
+/* ALL-FIRED EXPRESS STYLES 
 
 .all-fired-express {
     background-color: none;
