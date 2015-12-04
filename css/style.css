@@ -55,6 +55,10 @@ nav a {
     color: #2D2D3C;
 }
 
+.hero h3 a {
+    color: #2D2D3C;
+}
+
 .hero ul {
     list-style: none;
 }
