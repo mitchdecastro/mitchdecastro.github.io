@@ -32,6 +32,10 @@ nav a {
     color: #2D2D3C;
 }
 
+.hero a {
+    text-decoration: none;
+}
+
 /* ABOUT STYLES */
 
 .about {
