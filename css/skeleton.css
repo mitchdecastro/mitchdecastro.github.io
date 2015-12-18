@@ -126,7 +126,9 @@ body {
   font-weight: 400;
   font-family: "Work Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #2D2D3C;
-  background: #ededed; }
+  background: #ededed; 
+  outline: 5px solid #2D2D3C;}
+
 
 /* Typography
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
