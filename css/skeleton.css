@@ -163,6 +163,9 @@ a {
   color: #e4321b; }
 a:hover {
   color: #BC321B; }
+a:visited {
+  text-decoration: underline;
+}
 
 
 /* Buttons
