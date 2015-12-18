@@ -377,7 +377,8 @@ hr {
   margin-top: 2rem;
   margin-bottom: 2.5rem;
   border-width: 0;
-  border-top: 1px solid #373746; }
+  border-top: 1px solid #2D2D3C;
+  opacity: 0.5; }
 
 
 /* Clearing
