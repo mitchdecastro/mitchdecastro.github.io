@@ -944,11 +944,10 @@ HR: #E1E1E1
     text-decoration: none;
 }
 
-/* HORROR HAVEN STYLES */
+/* INDIVIDUAL WORK STYLES */
 
-.horror-haven-thumbnail {
-  width: 100%;
-  height: auto;
+.work-thumbnail {
+  margin-bottom: 100px;
 
 }
 
