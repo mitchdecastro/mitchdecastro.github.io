@@ -944,6 +944,14 @@ HR: #E1E1E1
     text-decoration: none;
 }
 
+/* HORROR HAVEN STYLES */
+
+.horror-haven-thumbnail {
+  width: 100%;
+  height: auto;
+
+}
+
 /* FOOTER STYLES */
 
 .footer {
