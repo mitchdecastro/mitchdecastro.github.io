@@ -948,6 +948,8 @@ HR: #E1E1E1
 
 .work-thumbnail {
     background-color: red;
+    height: 300px;
+    width: 960px;
 }
 
 /* FOOTER STYLES */
