@@ -947,7 +947,9 @@ HR: #E1E1E1
 /* INDIVIDUAL WORK STYLES */
 
 .work-thumbnail {
-
+    background-color: red;
+    height: auto;
+    width: 100%;
 }
 
 /* FOOTER STYLES */
