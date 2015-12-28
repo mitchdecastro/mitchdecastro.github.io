@@ -911,6 +911,18 @@ HR: #E1E1E1
     color: #e4321b;
 }
 
+.hero h4 {
+  color: #2D2D3C;
+}
+
+.hero h4 a {
+  color: #2D2D3C;
+}
+
+.hero h4 a:hover {
+  color: #e4321b; 
+}
+
 .hero ul {
     list-style: none;
 }
