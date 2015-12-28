@@ -871,7 +871,7 @@ HR: #E1E1E1
 
 .hero-main {
     height: 300px;
-    margin-bottom: 375px;
+    /*margin-bottom: 375px;*/
 }
 
 .hero-main h3 {
