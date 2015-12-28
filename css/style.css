@@ -870,8 +870,9 @@ HR: #E1E1E1
 /* HERO MAIN STYLES */
 
 .hero-main {
-    height: 300px;
-    margin-bottom: 375px;
+    /*height: 300px;
+    margin-bottom: 375px; */
+    height: 675px;
 }
 
 .hero-main h3 {
