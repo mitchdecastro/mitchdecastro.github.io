@@ -1009,8 +1009,6 @@ HR: #E1E1E1
  * Copyright (c) 2015 Daniel Eden
  */
 
-/*
-
 .animated {
   -webkit-animation-duration: 1s;
   animation-duration: 1s;
@@ -1331,4 +1329,4 @@ HR: #E1E1E1
     opacity: 0;
   }
 }
- ——————————————— END ANIMATE CSS —————————————— */
+/* ——————————————— END ANIMATE CSS —————————————— */
