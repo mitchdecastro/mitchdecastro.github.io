@@ -871,7 +871,7 @@ HR: #E1E1E1
 
 .hero-main {
     height: 300px;
-    margin-bottom: 375px;
+    margin-bottom: 500px;
 }
 
 .hero-main h3 {
@@ -908,18 +908,6 @@ HR: #E1E1E1
 
 .hero h3 a:hover {
     color: #e4321b;
-}
-
-.hero h4 {
-  color: #2D2D3C;
-}
-
-.hero h4 a {
-  color: #2D2D3C;
-}
-
-.hero h4 a:hover {
-  color: #e4321b; 
 }
 
 .hero ul {
