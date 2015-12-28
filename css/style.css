@@ -958,6 +958,11 @@ HR: #E1E1E1
     margin-bottom: 50px;
 }
 
+.logo {
+    background-color: #e4321b;
+    height: 300px;
+}
+
 .pagination a {
     text-decoration: none;
 }
