@@ -587,7 +587,12 @@ p {
 /* Links BC321B
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a {
-  color: #2D2D3C; }
+  color: #2D2D3C;
+  -webkit-transition: background-color 500ms ease-out 1s;
+    -moz-transition: background-color 500ms ease-out 1s;
+    -o-transition: background-color 500ms ease-out 1s;
+    transition: background-color 500ms ease-out 1s;
+}
 a:hover {
   color: #e4321b; }
 }
