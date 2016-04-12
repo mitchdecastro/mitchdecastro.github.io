@@ -591,10 +591,10 @@ a {
 }
 a:hover {
   color: #e4321b;
-  -webkit-transition: 0.2s ease-in-out;
-  -moz-transition: 0.2s ease-in-out;
-  -o-transition: 0.2s ease-in-out;
-  transition: 0.2s ease-in-out;
+  -webkit-transition: color 200ms ease initial;
+  -moz-transition: color 200s ease initial;
+  -o-transition: color 200s ease initial;
+  transition: color 200s ease initial;
 }
 
 
