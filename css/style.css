@@ -865,6 +865,12 @@ HR: #E1E1E1
 
 */
 
+/* LOGO */
+
+.logo {
+  display: block;
+}
+
 /* HERO MAIN STYLES */
 
 .hero-main {
