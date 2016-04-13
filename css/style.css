@@ -870,6 +870,7 @@ HR: #E1E1E1
 .logo {
   display: inline-block;
   height: 100px;
+  padding-top: 50px;
 }
 
 /* HERO MAIN STYLES */
