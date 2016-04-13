@@ -868,7 +868,7 @@ HR: #E1E1E1
 /* LOGO */
 
 .logo {
-  display: block;
+  display: inline-block;
   height: 100px;
 }
 
