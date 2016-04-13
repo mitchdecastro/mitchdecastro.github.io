@@ -869,7 +869,6 @@ HR: #E1E1E1
 
 .logo {
   display: block;
-  background-color: none;
 }
 
 /* HERO MAIN STYLES */
@@ -961,11 +960,6 @@ HR: #E1E1E1
     height: 500px;
     width: 960px;
     margin-bottom: 50px;
-}
-
-.logo {
-    background-color: #e4321b;
-    height: 300px;
 }
 
 .pagination a {
