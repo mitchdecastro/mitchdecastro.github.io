@@ -869,6 +869,7 @@ HR: #E1E1E1
 
 .logo {
   display: block;
+  background-color: none;
 }
 
 /* HERO MAIN STYLES */
