@@ -1312,24 +1312,4 @@ HR: #E1E1E1
   -webkit-animation-name: fadeInUpBig;
   animation-name: fadeInUpBig;
 }
-
-@-webkit-keyframes fadeOut {
-  from {
-    opacity: 1;
-  }
-
-  to {
-    opacity: 0;
-  }
-}
-
-@keyframes fadeOut {
-  from {
-    opacity: 1;
-  }
-
-  to {
-    opacity: 0;
-  }
-}
  /* ——————————————— END ANIMATE CSS —————————————— */
