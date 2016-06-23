@@ -552,8 +552,8 @@ body {
   line-height: 1.6;
   font-weight: 400;
   font-family: "Work Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #2D2D3C;
-  background: #ededed; 
+  color: #140028;
+  background: #FFE2D1; 
   }
 
 
@@ -587,10 +587,10 @@ p {
 /* Links BC321B
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a {
-  color: #2D2D3C;
+  color: #140028;
 }
 a:hover {
-  color: #e4321b;
+  color: #F24B28;
   -webkit-transition: 0.2s ease;
   -moz-transition: 0.2s ease;
   -o-transition: 0.2s ease;
@@ -862,6 +862,12 @@ BLUE: #2D2D3C
 RED: #e4321b
 WHITE: #ededed
 HR: #E1E1E1
+
+NEW
+
+PURPLE: #140028
+ORANGE: #F24B28
+WHITE: #FFE2D1
 
 */
 
