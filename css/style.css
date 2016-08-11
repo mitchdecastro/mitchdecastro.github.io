@@ -818,8 +818,8 @@ form {
 hr {
   margin-top: 2rem;
   margin-bottom: 2.5rem;
-  border-width: 0;
-  border-top: 1px solid #D2D2D2; }
+  border-width: 53;
+  border-top: 5px solid #3291FF; }
 
 
 /* Clearing
