@@ -819,6 +819,7 @@ hr {
   margin-top: 2rem;
   margin-bottom: 2.5rem;
   width: 53px;
+  align: left; 
   border-width: 0;
   border-top: 5px solid #3291FF; }
 
