@@ -634,8 +634,8 @@ input[type="submit"]:focus,
 input[type="reset"]:focus,
 input[type="button"]:focus {
   color: #ededed;
-  background-color: #e4321b;
-  border-color: #e4321b;
+  background-color: #FF6D6D;
+  border-color: #FF6D6D;
   outline: 0;
   -webkit-transition: 0.2s ease;
   -moz-transition: 0.2s ease;
@@ -648,8 +648,8 @@ input[type="submit"].button-primary,
 input[type="reset"].button-primary,
 input[type="button"].button-primary {
   color: #FFF;
-  background-color: #e4321b;
-  border-color: #e4321b; }
+  background-color: #FF6D6D;
+  border-color: #FF6D6D; }
 .button.button-primary:hover,
 button.button-primary:hover,
 input[type="submit"].button-primary:hover,
@@ -866,7 +866,7 @@ there.
 /* COLORS 
 
 BLUE: #3291FF
-RED: #e4321b
+RED: #FF6D6D
 WHITE: #ededed
 HR: #E1E1E1
 
@@ -915,7 +915,7 @@ HR: #E1E1E1
 }
 
 .hero h3 a:hover {
-    color: #e4321b;
+    color: #FF6D6D;
 }
 
 .hero h4 {
@@ -927,7 +927,7 @@ HR: #E1E1E1
 }
 
 .hero h4 a:hover {
-    color: #e4321b;
+    color: #FF6D6D;
 }
 
 .hero ul {
@@ -965,7 +965,7 @@ HR: #E1E1E1
 /* INDIVIDUAL WORK STYLES */
 
 .work-thumbnail {
-    background-color: #e4321b;
+    background-color: #FF6D6D;
     height: 500px;
     width: 960px;
     margin-bottom: 50px;
