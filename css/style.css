@@ -588,10 +588,10 @@ p {
 /* Links BC321B
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a {
-  color: #2D2D3C;
+  color: #3291FF;
 }
 a:hover {
-  color: #e4321b;
+  color: #FF6D6D;
   -webkit-transition: 0.2s ease;
   -moz-transition: 0.2s ease;
   -o-transition: 0.2s ease;
