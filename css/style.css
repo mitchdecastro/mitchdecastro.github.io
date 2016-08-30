@@ -586,10 +586,10 @@ p {
   margin-top: 0; }
 
 
-/* Links BC321B
+/* Links BC321B #3291FF
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a {
-  color: #3291FF;
+  color: #FFF ;
 }
 a:hover {
   color: #FF6D6D;
@@ -891,8 +891,10 @@ HR: #E1E1E1
 
 .hero-main h3 {
     padding-top: 100px;
-    color: #3291FF;
+    color: #FFF;
 }
+
+/* old color #3291FF */
 
 .hero-main ul {
     list-style: none;
@@ -906,15 +908,15 @@ HR: #E1E1E1
     text-decoration: none;
 }
 
-/* HERO STYLES */
+/* HERO STYLES old a color #3291FF */
 
 .hero h3 {
     padding-top: 50px;
-    color: #3291FF;
+    color: ;
 }
 
 .hero h3 a {
-    color: #3291FF;
+    color: #FFF;
 }
 
 .hero h3 a:hover {
@@ -922,11 +924,11 @@ HR: #E1E1E1
 }
 
 .hero h4 {
-    color: #3291FF;
+    color: #FFF;
 }
 
 .hero h4 a {
-    color: #3291FF;
+    color: #FFF;
 }
 
 .hero h4 a:hover {
