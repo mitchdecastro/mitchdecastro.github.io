@@ -553,10 +553,11 @@ body {
   line-height: 1.6;
   font-weight: 500;
   font-family: "Work Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #3291FF;
-  background: #fff; 
+  color: #FFF;
+  background: #2D3142; 
   }
 
+/* old color: #3291FF; */
 
 /* Typography
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
