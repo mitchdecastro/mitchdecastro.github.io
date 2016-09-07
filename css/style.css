@@ -553,8 +553,8 @@ body {
   line-height: 1.6;
   font-weight: 500;
   font-family: "Work Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #FFF;
-  background: #1E1E1E; 
+  color: #1e1e1e;
+  background: #EDEDED; 
   }
 
 /* old color: #3291FF; */
@@ -589,7 +589,7 @@ p {
 /* Links BC321B #3291FF
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a {
-  color: #FFF ;
+  color: #1e1e1e ;
 }
 a:hover {
   color: #FF6D6D;
