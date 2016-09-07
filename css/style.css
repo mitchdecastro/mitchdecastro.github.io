@@ -822,7 +822,8 @@ hr {
   width: 53px;
   display: inline-block; 
   border-width: 0;
-  border-top: 4px solid #1e1e1e; }
+  border-top: 4px solid #1e1e1e;
+  border-radius: 20px; }
 /* old color #3291FF */
 
 /* Clearing
