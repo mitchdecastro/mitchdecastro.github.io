@@ -891,7 +891,7 @@ HR: #E1E1E1
 
 .hero-main h3 {
     padding-top: 100px;
-    color: #FFF;
+    color: #1e1e1e;
 }
 
 /* old color #3291FF */
@@ -916,7 +916,7 @@ HR: #E1E1E1
 }
 
 .hero h3 a {
-    color: #FFF;
+    color: #1e1e1e;
 }
 
 .hero h3 a:hover {
@@ -924,11 +924,11 @@ HR: #E1E1E1
 }
 
 .hero h4 {
-    color: #FFF;
+    color: #1e1e1e;
 }
 
 .hero h4 a {
-    color: #FFF;
+    color: #1e1e1e;
 }
 
 .hero h4 a:hover {
