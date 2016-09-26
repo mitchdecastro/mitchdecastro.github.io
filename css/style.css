@@ -922,6 +922,10 @@ nav a {
     padding-top: 15px;
 }
 
+.about h5 {
+  font-size: 3.2rem;
+}
+
 /* INDEX WORK STYLES */
 
 .work {
