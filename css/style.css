@@ -860,7 +860,7 @@ nav a {
 }
 
 .hero-main h3 {
-    padding-top: 100px;
+    padding-top: 10rem;
     color: #1e1e1e;
 }
 
@@ -881,7 +881,7 @@ nav a {
 /* HERO STYLES old a color #3291FF */
 
 .hero h3 {
-    padding-top: 50px;
+    padding-top: 5px;
     color: ;
 }
 
@@ -920,7 +920,7 @@ nav a {
 /* ABOUT STYLES */
 
 .about {
-    padding-top: 15px;
+    padding-top: 1.5rem;
 }
 
 .about h5 {
