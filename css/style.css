@@ -797,6 +797,8 @@ HR: #E1E1E1
   margin: 0;
   display: inline-block;
   color: white;
+  width: 100%;
+  text-align: center;
 }
 
 /* TOP BAR THING */
