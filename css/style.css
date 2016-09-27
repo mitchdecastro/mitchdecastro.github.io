@@ -790,6 +790,13 @@ HR: #E1E1E1
 
 */
 
+/* TEMP WARNING BAR */
+
+.warning {
+  background-color: red;
+  
+}
+
 /* TOP BAR THING */
 
 .top {
@@ -995,7 +1002,7 @@ nav a {
 
 /* ——————————————— END CUSTOM CSS —————————————— */
 
-/* ——————————————— START ANIMATE CSS ——————————————
+/* ——————————————— START ANIMATE CSS —————————————— */
 
 @charset "UTF-8";
 
