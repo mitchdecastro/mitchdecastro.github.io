@@ -892,8 +892,7 @@ nav a {
 /* HERO STYLES old a color #3291FF */
 
 .hero h3 {
-    padding-top: 5px;
-    color: ;
+    padding-top: .5rem;
 }
 
 .hero h3 a {
@@ -935,7 +934,7 @@ nav a {
 }
 
 .about h3 {
-  
+
 }
 
 /* INDEX WORK STYLES */
@@ -951,10 +950,6 @@ nav a {
 
 .description-2 {
   padding-right: 12.5rem;
-}
-
-.work h4 {
-    color: #3291FF;
 }
 
 .work a {
