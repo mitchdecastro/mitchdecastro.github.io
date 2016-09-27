@@ -794,7 +794,9 @@ HR: #E1E1E1
 
 .warning {
   background-color: red;
-  
+  margin: 0;
+  display: inline-block;
+  color: white;
 }
 
 /* TOP BAR THING */
