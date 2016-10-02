@@ -940,6 +940,11 @@ nav a {
     line-height: 1.5;
 }
 
+.about a {
+    text-decoration: none;
+    font-weight: 700;
+}
+
 /* INDEX WORK STYLES */
 
 .work {
