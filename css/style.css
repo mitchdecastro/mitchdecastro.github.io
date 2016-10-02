@@ -862,6 +862,7 @@ nav ul li {
 }
 
 nav a {
+  font-weight: 700;
   text-decoration: none;
 }
 /* HERO MAIN STYLES */
@@ -886,6 +887,7 @@ nav a {
 }
 
 .hero-main a {
+    font-weight: 700;
     text-decoration: none;
 }
 
