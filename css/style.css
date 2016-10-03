@@ -849,6 +849,12 @@ HR: #E1E1E1
   padding-right: 12.5rem;
 }
 
+.resume-button {
+  text-align: center;
+  height: 10rem;
+  width: auto;
+  border: solid .5rem #1e1e1e;
+}
 /* NAV STYLES */
 
 nav {
