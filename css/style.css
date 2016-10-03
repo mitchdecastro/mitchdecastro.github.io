@@ -982,7 +982,11 @@ nav a {
 .case {
   background-color: #1e1e1e;
   height: 50rem;
-  margin-top: 20rem;
+  margin-top: 10rem;
+}
+
+.case-main h3 {
+  padding-top: 5rem;
 }
 
 /* FOOTER STYLES */
