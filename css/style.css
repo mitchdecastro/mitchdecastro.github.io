@@ -977,6 +977,14 @@ nav a {
     text-decoration: none;
 }
 
+/* CASE STUDY STYLES */
+
+.case {
+  background-color: #1e1e1e;
+  height: 50rem;
+  margin-top: 20rem;
+}
+
 /* FOOTER STYLES */
 
 .footer {
