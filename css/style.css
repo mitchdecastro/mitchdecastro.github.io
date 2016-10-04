@@ -507,10 +507,10 @@ a {
 }
 a:hover {
   color: #FF6D6D;
-  -webkit-transition: 0.2s ease-in-out;
-  -moz-transition: 0.2s ease-in-out;
-  -o-transition: 0.2s ease-in-out;
-  transition: 0.2s ease-in-out;
+  -webkit-transition: all 300ms ease-in-out;
+  -moz-transition: all 300ms ease-in-out;
+  -o-transition: all 300ms ease-in-out;
+  transition: all 300ms ease-in-out;
 }
 
 
@@ -818,10 +818,10 @@ HR: #E1E1E1
 
 #logo:hover {
   fill: #FF6D6D;
-  -webkit-transition: 0.2s ease-in-out;
-  -moz-transition: 0.2s ease-in-out;
-  -o-transition: 0.2s ease-in-out;
-  transition: 0.2s ease-in-out;
+  -webkit-transition: all 300ms ease-in-out;
+  -moz-transition: all 300ms ease-in-out;
+  -o-transition: all 300ms ease-in-out;
+  transition: all 300ms ease-in-out;
 }
 
 /* RESUME STYLES */
@@ -851,10 +851,19 @@ HR: #E1E1E1
 
 .resume-button {
   text-align: center;
-  height: 10rem;
-  width: auto;
+  height: 5rem;
+  width: 100%;
   border: solid .5rem #1e1e1e;
+  text-decoration: none;
+  padding-top: 2.25rem;
+  display: inline-block;
+  font-weight: 700;
 }
+
+.resume-button:hover {
+  border: solid .5rem
+}
+
 /* NAV STYLES */
 
 nav {
