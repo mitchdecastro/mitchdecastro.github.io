@@ -855,14 +855,14 @@ HR: #E1E1E1
 }
 
 .resume-button {
-  text-align: center;
-  height: 5rem;
-  width: 100%;
-  border: solid .5rem #1e1e1e;
-  text-decoration: none;
-  padding-top: 2.25rem;
-  display: inline-block;
-  font-weight: 700;
+    text-align: center;
+    height: auto;
+    width: 100%;
+    border: solid .5rem #1e1e1e;
+    text-decoration: none;
+    padding: 10px 0;
+    display: inline-block;
+    font-weight: 700;
 }
 
 .resume-button:hover {
