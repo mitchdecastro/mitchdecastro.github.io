@@ -903,7 +903,7 @@ nav a {
 .hero-main h3 {
     padding-top: 10rem;
     color: #1e1e1e;
-    line-height: 1.5rem;
+    line-height: 1.5;
 }
 
 /* old color #3291FF */
