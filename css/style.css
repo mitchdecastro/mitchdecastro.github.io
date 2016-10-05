@@ -846,7 +846,8 @@ HR: #E1E1E1
 }
 
 @media (max-width: 550px) {
-  padding-right: 2rem;
+  .description { padding-right: 2rem;
+  }
 }
 
 .description-2 {
