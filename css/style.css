@@ -471,6 +471,11 @@ body {
   background: #EDEDED;
   }
 
+body::selection{
+  color: #fff;
+  background: #FF6D6D;
+}
+
 /* old color: #3291FF; */
 
 /* Typography
