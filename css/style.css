@@ -471,7 +471,7 @@ body {
   background: #EDEDED;
   }
 
-body::selection{
+::selection{
   color: #fff;
   background: #FF6D6D;
 }
