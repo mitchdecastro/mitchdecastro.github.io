@@ -334,7 +334,7 @@ textarea {
   -webkit-appearance: button; /* 1 */
   font: inherit; /* 2 */
 }
-/* ——————————————— END NORMALIZE CSS —————————————— */ 
+/* ——————————————— END NORMALIZE CSS —————————————— */
 
 /* ——————————————— START SKELETON CSS —————————————— */
 
@@ -468,7 +468,7 @@ body {
   font-weight: 500;
   font-family: "Work Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #1e1e1e;
-  background: #EDEDED; 
+  background: #EDEDED;
   }
 
 /* old color: #3291FF; */
@@ -734,7 +734,7 @@ hr {
   margin-top: 1.5rem;
   margin-bottom: 2.5rem;
   width: 53px;
-  display: inline-block; 
+  display: inline-block;
   border-width: 0;
   border-top: 4px solid #1e1e1e;
   border-radius: 20px; }
@@ -766,7 +766,7 @@ there.
 @media (min-width: 400px) {}
 
 /* Larger than phablet (also point when grid becomes active) */
-@media (min-width: 550px) {} 
+@media (min-width: 550px) {}
 
 /* Larger than tablet */
 @media (min-width: 750px) {}
@@ -781,7 +781,7 @@ there.
 
 /* ——————————————— START CUSTOM CSS —————————————— */
 
-/* COLORS 
+/* COLORS
 
 BLUE: #3291FF
 RED: #FF6D6D
@@ -829,7 +829,7 @@ HR: #E1E1E1
 .headings {
   font-weight: 700;
   font-size: 1.8rem;
-  margin-bottom: -2rem; 
+  margin-bottom: -2rem;
 }
 
 .subhead {
@@ -843,6 +843,10 @@ HR: #E1E1E1
 .description {
   padding-right: 12.5rem;
   margin-bottom: 0;
+}
+
+@media (max-width: 550px) {
+  padding-right: 2rem;
 }
 
 .description-2 {
