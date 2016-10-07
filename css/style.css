@@ -884,6 +884,12 @@ nav {
   justify-content: space-between;
 }
 
+@media (max-width: 550px) {
+  nav {
+    padding: 2rem 0;
+  }
+}
+
 nav ul {
   list-style: none;
   text-align: right;
