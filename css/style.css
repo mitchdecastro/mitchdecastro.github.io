@@ -884,7 +884,7 @@ nav {
   justify-content: space-between;
 }
 
-@media (max-width: 550px) {
+@media (max-width: 350px) {
   nav {
     padding: 2rem 0;
   }
