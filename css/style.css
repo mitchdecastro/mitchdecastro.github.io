@@ -473,7 +473,7 @@ body {
 
 ::selection{
   color: #fff;
-  background: #EC3134;
+  background: #FF3D3F;
 }
 
 /* old color: #3291FF; */
@@ -550,7 +550,7 @@ a {
   color: #2D2D3C ;
 }
 a:hover {
-  color: #EC3134;
+  color: #FF3D3F;
   -webkit-transition: all 300ms ease-in-out;
   -moz-transition: all 300ms ease-in-out;
   -o-transition: all 300ms ease-in-out;
@@ -593,8 +593,8 @@ input[type="submit"]:focus,
 input[type="reset"]:focus,
 input[type="button"]:focus {
   color: #fff;
-  background-color: #EC3134;
-  border-color: #EC3134;
+  background-color: #FF3D3F;
+  border-color: #FF3D3F;
   outline: 0;
   -webkit-transition: 0.2s ease;
   -moz-transition: 0.2s ease;
@@ -607,8 +607,8 @@ input[type="submit"].button-primary,
 input[type="reset"].button-primary,
 input[type="button"].button-primary {
   color: #FFF;
-  background-color: #EC3134;
-  border-color: #EC3134; }
+  background-color: #FF3D3F;
+  border-color: #FF3D3F; }
 .button.button-primary:hover,
 button.button-primary:hover,
 input[type="submit"].button-primary:hover,
@@ -620,8 +620,8 @@ input[type="submit"].button-primary:focus,
 input[type="reset"].button-primary:focus,
 input[type="button"].button-primary:focus {
   color: #FFF;
-  background-color: #EC3134;
-  border-color: #EC3134; }
+  background-color: #FF3D3F;
+  border-color: #FF3D3F; }
 
 
 /* Forms
@@ -843,7 +843,7 @@ there.
 }
 
 #logo:hover {
-  fill: #EC3134;
+  fill: #FF3D3F;
   -webkit-transition: all 300ms ease-in-out;
   -moz-transition: all 300ms ease-in-out;
   -o-transition: all 300ms ease-in-out;
