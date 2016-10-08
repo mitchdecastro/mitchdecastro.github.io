@@ -963,7 +963,6 @@ nav a {
 /* ABOUT STYLES */
 
 .about {
-    padding-top: 1.5rem;
 }
 
 .about h2 {
@@ -1004,7 +1003,8 @@ nav a {
 }
 
 /* Small Devices, Tablets */
-@media only screen and (max-width : 768px) {
+
+/* @media only screen and (max-width : 768px) {
   .animated {
     /*CSS transitions*/
     -o-transition-property: none !important;
