@@ -969,12 +969,12 @@ nav a {
 /* ABOUT STYLES */
 
 .about {
+    margin: 0 0 0 0;
 }
 
 .about h2 {
     line-height: 1.5;
     font-weight: 500;
-    margin: 0 0 0 0;
 }
 
 .about a {
