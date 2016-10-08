@@ -828,17 +828,6 @@ HR: #E1E1E1
 
 */
 
-/* TEMP WARNING BAR */
-
-.warning {
-  background-color: red;
-  margin: 0;
-  display: inline-block;
-  color: white;
-  width: 100%;
-  text-align: center;
-}
-
 /* TOP BAR THING */
 
 .top {
@@ -932,6 +921,7 @@ nav ul {
 nav ul li {
   display: inline-block;
   padding: 0 0 0 2rem;
+  margin: 0 0 0 0;
 }
 
 nav a {
