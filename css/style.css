@@ -902,6 +902,10 @@ HR: #E1E1E1
   border: solid .5rem
 }
 
+.contact ul {
+  margin: 0 0 0 -1.5rem;
+}
+
 .contact li {
   list-style: none;
 }
