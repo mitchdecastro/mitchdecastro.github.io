@@ -515,7 +515,7 @@ h1, h2, {
 }
 
 h3 {
-  margin: 0 0 -2rem 0;
+  margin: 2rem 0 -2rem 0;
   font-weight: 700;
 }
 
@@ -859,18 +859,8 @@ HR: #E1E1E1
 
 /* RESUME STYLES */
 
-.headings {
-  font-weight: 700;
-  font-size: 1.8rem;
-  margin-bottom: -2rem;
-}
-
-.subhead {
-  margin-bottom: 1rem;
-}
-
 .resume {
-  margin-top: 6.5rem;
+  margin-top: 4.5rem;
 }
 
 .description {
