@@ -877,6 +877,10 @@ HR: #E1E1E1
   border: solid .5rem
 }
 
+.contact {
+  list-style: none;
+}
+
 /* NAV STYLES */
 
 nav {
