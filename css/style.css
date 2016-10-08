@@ -877,7 +877,7 @@ HR: #E1E1E1
   border: solid .5rem
 }
 
-.contact {
+.contact li{
   list-style: none;
 }
 
