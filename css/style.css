@@ -467,7 +467,7 @@ body {
   line-height: 1.6;
   font-weight: 500;
   font-family: "Work Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #2D2D3C;
+  color: #1D3868;
   background: #fff;
   }
 
@@ -547,7 +547,7 @@ p {
 /* Links
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a {
-  color: #2D2D3C ;
+  color: #1D3868 ;
 }
 a:hover {
   color: #FF3D3F;
@@ -568,7 +568,7 @@ input[type="button"] {
   display: inline-block;
   height: 38px;
   padding: 0 30px;
-  color: #2D2D3C;
+  color: #1D3868;
   text-align: center;
   font-size: 11px;
   font-weight: 600;
@@ -579,7 +579,7 @@ input[type="button"] {
   white-space: nowrap;
   background-color: transparent;
   border-radius: 4px;
-  border: 1px solid #2D2D3C;
+  border: 1px solid #1D3868;
   cursor: pointer;
   box-sizing: border-box; }
 .button:hover,
@@ -783,7 +783,7 @@ hr {
   width: 53px;
   display: inline-block;
   border-width: 0;
-  border-top: 4px solid #2D2D3C;
+  border-top: 4px solid #1D3868;
   border-radius: 20px; }
 
 /* Clearing
@@ -830,7 +830,7 @@ there.
 /* TOP BAR THING */
 
 .top {
-  background-color: #2D2D3C;
+  background-color: #1D3868;
   height: 1rem;
   width: 100%
 }
@@ -874,7 +874,7 @@ there.
   text-align: center;
   height: auto;
   width: 100%;
-  border: solid .5rem #2D2D3C;
+  border: solid .5rem #1D3868;
   text-decoration: none;
   padding: 10px 0;
   display: inline-block;
@@ -987,7 +987,7 @@ nav a {
 /* CASE STUDY STYLES */
 
 .case {
-  background-color: #2D2D3C;
+  background-color: #1D3868;
   height: 50rem;
   margin-top: 10rem;
 }
