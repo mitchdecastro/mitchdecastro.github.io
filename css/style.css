@@ -467,13 +467,13 @@ body {
   line-height: 1.6;
   font-weight: 500;
   font-family: "Work Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #1e1e1e;
+  color: #2D2D3C;
   background: #EDEDED;
   }
 
 ::selection{
   color: #fff;
-  background: #FF6D6D;
+  background: #EC3134;
 }
 
 /* old color: #3291FF; */
@@ -544,13 +544,13 @@ h6 { font-size: 1.5rem; line-height: 1.6;  letter-spacing: 0; }
 p {
   margin-top: 0; }
 
-/* Links BC321B #3291FF
+/* Links
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a {
-  color: #1e1e1e ;
+  color: #2D2D3C ;
 }
 a:hover {
-  color: #FF6D6D;
+  color: #EC3134;
   -webkit-transition: all 300ms ease-in-out;
   -moz-transition: all 300ms ease-in-out;
   -o-transition: all 300ms ease-in-out;
@@ -568,7 +568,7 @@ input[type="button"] {
   display: inline-block;
   height: 38px;
   padding: 0 30px;
-  color: #3291FF;
+  color: #2D2D3C;
   text-align: center;
   font-size: 11px;
   font-weight: 600;
@@ -579,7 +579,7 @@ input[type="button"] {
   white-space: nowrap;
   background-color: transparent;
   border-radius: 4px;
-  border: 1px solid #3291FF;
+  border: 1px solid #2D2D3C;
   cursor: pointer;
   box-sizing: border-box; }
 .button:hover,
@@ -593,8 +593,8 @@ input[type="submit"]:focus,
 input[type="reset"]:focus,
 input[type="button"]:focus {
   color: #fff;
-  background-color: #FF6D6D;
-  border-color: #FF6D6D;
+  background-color: #EC3134;
+  border-color: #EC3134;
   outline: 0;
   -webkit-transition: 0.2s ease;
   -moz-transition: 0.2s ease;
@@ -607,8 +607,8 @@ input[type="submit"].button-primary,
 input[type="reset"].button-primary,
 input[type="button"].button-primary {
   color: #FFF;
-  background-color: #FF6D6D;
-  border-color: #FF6D6D; }
+  background-color: #EC3134;
+  border-color: #EC3134; }
 .button.button-primary:hover,
 button.button-primary:hover,
 input[type="submit"].button-primary:hover,
@@ -620,8 +620,8 @@ input[type="submit"].button-primary:focus,
 input[type="reset"].button-primary:focus,
 input[type="button"].button-primary:focus {
   color: #FFF;
-  background-color: #FF6D6D;
-  border-color: #FF6D6D; }
+  background-color: #EC3134;
+  border-color: #EC3134; }
 
 
 /* Forms
@@ -783,7 +783,7 @@ hr {
   width: 53px;
   display: inline-block;
   border-width: 0;
-  border-top: 4px solid #1e1e1e;
+  border-top: 4px solid #2D2D3C;
   border-radius: 20px; }
 
 /* Clearing
@@ -829,7 +829,7 @@ there.
 
 /* COLORS
 BLUE: #3291FF
-RED: #FF6D6D
+RED: #EC3134
 WHITE: #ededed
 HR: #E1E1E1
 */
@@ -837,7 +837,7 @@ HR: #E1E1E1
 /* TOP BAR THING */
 
 .top {
-  background-color: #1e1e1e;
+  background-color: #2D2D3C;
   height: 1rem;
   width: 100%
 }
@@ -850,7 +850,7 @@ HR: #E1E1E1
 }
 
 #logo:hover {
-  fill: #FF6D6D;
+  fill: #EC3134;
   -webkit-transition: all 300ms ease-in-out;
   -moz-transition: all 300ms ease-in-out;
   -o-transition: all 300ms ease-in-out;
@@ -881,7 +881,7 @@ HR: #E1E1E1
   text-align: center;
   height: auto;
   width: 100%;
-  border: solid .5rem #1e1e1e;
+  border: solid .5rem #2D2D3C;
   text-decoration: none;
   padding: 10px 0;
   display: inline-block;
@@ -994,7 +994,7 @@ nav a {
 /* CASE STUDY STYLES */
 
 .case {
-  background-color: #1e1e1e;
+  background-color: #2D2D3C;
   height: 50rem;
   margin-top: 10rem;
 }
@@ -1011,7 +1011,7 @@ footer {
 
 /* Small Devices, Tablets */
 
-/* @media only screen and (max-width : 768px) {
+@media only screen and (max-width : 768px) {
   .animated {
 
     -o-transition-property: none !important;
@@ -1032,7 +1032,7 @@ footer {
     -ms-animation: none !important;
     animation: none !important;
   }
-} */
+}
 
 /* ——————————————— END CUSTOM CSS —————————————— */
 
