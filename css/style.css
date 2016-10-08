@@ -785,7 +785,6 @@ hr {
   border-width: 0;
   border-top: 4px solid #1e1e1e;
   border-radius: 20px; }
-/* old color #3291FF */
 
 /* Clearing
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
@@ -829,12 +828,10 @@ there.
 /* ——————————————— START CUSTOM CSS —————————————— */
 
 /* COLORS
-
 BLUE: #3291FF
 RED: #FF6D6D
 WHITE: #ededed
 HR: #E1E1E1
-
 */
 
 /* TOP BAR THING */
@@ -891,18 +888,22 @@ HR: #E1E1E1
 }
 
 .resume-button {
-    text-align: center;
-    height: auto;
-    width: 100%;
-    border: solid .5rem #1e1e1e;
-    text-decoration: none;
-    padding: 10px 0;
-    display: inline-block;
-    font-weight: 700;
+  text-align: center;
+  height: auto;
+  width: 100%;
+  border: solid .5rem #1e1e1e;
+  text-decoration: none;
+  padding: 10px 0;
+  display: inline-block;
+  font-weight: 700;
 }
 
 .resume-button:hover {
   border: solid .5rem
+}
+
+.contact li {
+  list-style: none;
 }
 
 /* NAV STYLES */
