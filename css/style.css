@@ -511,12 +511,11 @@ h6 { font-size: 1.5rem; line-height: 1.6;  letter-spacing: 0; }
 */
 
 h1, h2, {
-  margin-top: 0;
-  margin-bottom: 2rem;
+  margin: 0 0 2rem 0;
   font-weight: 500; }
 
 h3 {
-  margin-bottom: -2rem;
+  margin: 0 0 -2rem 0;
   font-weight: 700;
 }
 
@@ -973,6 +972,7 @@ nav a {
 
 .about h2 {
     line-height: 1.5;
+    font-weight: 500;
 }
 
 .about a {
