@@ -928,25 +928,23 @@ nav a {
   font-weight: 700;
   text-decoration: none;
 }
+
 /* HERO MAIN STYLES */
 
 .hero-main {
     height: auto;
 }
 
-.hero-main h3 {
+.hero-main h1 {
     padding-top: 8rem;
-    color: #1e1e1e;
     line-height: 1.4;
 }
 
 @media (max-width: 1000px) {
-    .hero-main h3 {
+    .hero-main h1 {
       padding-top: 0rem;
     }
 }
-
-/* old color #3291FF */
 
 .hero-main ul {
     list-style: none;
@@ -962,51 +960,13 @@ nav a {
     text-decoration: none;
 }
 
-/* HERO STYLES old a color #3291FF */
-
-.hero h3 {
-    padding-top: .5rem;
-}
-
-.hero h3 a {
-    color: #1e1e1e;
-}
-
-.hero h3 a:hover {
-    color: #FF6D6D;
-}
-
-.hero h4 {
-    color: #1e1e1e;
-}
-
-.hero h4 a {
-    color: #1e1e1e;
-}
-
-.hero h4 a:hover {
-    color: #FF6D6D;
-}
-
-.hero ul {
-    list-style: none;
-}
-
-.hero li {
-    display: inline-block;
-}
-
-.hero a {
-    text-decoration: none;
-}
-
 /* ABOUT STYLES */
 
 .about {
     padding-top: 1.5rem;
 }
 
-.about h4 {
+.about h2 {
     line-height: 1.5;
 }
 
@@ -1022,19 +982,6 @@ nav a {
 }
 
 .work a {
-    text-decoration: none;
-}
-
-/* INDIVIDUAL WORK STYLES */
-
-.work-thumbnail {
-    background-color: #FF6D6D;
-    height: 500px;
-    width: 960px;
-    margin-bottom: 50px;
-}
-
-.pagination a {
     text-decoration: none;
 }
 
