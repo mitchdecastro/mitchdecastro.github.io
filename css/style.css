@@ -480,6 +480,8 @@ body {
 
 /* Typography
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
+/*
+
 h1, h2, h3, h4, h5, h6 {
   margin-top: 0;
   margin-bottom: 2rem;
@@ -491,7 +493,12 @@ h4 { font-size: 2.4rem; line-height: 1.35; letter-spacing: -.08rem; }
 h5 { font-size: 1.8rem; line-height: 1.5;  letter-spacing: -.05rem; }
 h6 { font-size: 1.5rem; line-height: 1.6;  letter-spacing: 0; }
 
+*/
+
 /* Larger than phablet OR 550px */
+
+/*
+
 @media (min-width: 625px) {
   h1 { font-size: 5.0rem; }
   h2 { font-size: 4.2rem; }
@@ -501,9 +508,32 @@ h6 { font-size: 1.5rem; line-height: 1.6;  letter-spacing: 0; }
   h6 { font-size: 1.5rem; }
 }
 
+*/
+
+h1, h2, h3, h4, h5, h6 {
+  margin-top: 0;
+  margin-bottom: 2rem;
+  font-weight: 500; }
+h1 { font-size: 3.0rem; line-height: 1.3;  letter-spacing: -.1rem; }
+h2 { font-size: 2.4rem; line-height: 1.35; letter-spacing: -.08rem; }
+h3 { font-size: 1.8rem; line-height: 1.5;  letter-spacing: -.05rem; }
+h4 { font-size: 1.5rem; line-height: 1.6;  letter-spacing: 0; }
+h5 { font-size: 1.8rem; line-height: 1.5;  letter-spacing: -.05rem; }
+h6 { font-size: 1.5rem; line-height: 1.6;  letter-spacing: 0; }
+
+/* Larger than phablet OR 550px */
+
+@media (min-width: 625px) {
+  h1 { font-size: 3.6rem; }
+  h2 { font-size: 3.0rem; }
+  h3 { font-size: 2.4rem; }
+  h4 { font-size: 1.5rem; }
+  h5 { font-size: 2.4rem; }
+  h6 { font-size: 1.5rem; }
+}
+
 p {
   margin-top: 0; }
-
 
 /* Links BC321B #3291FF
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
