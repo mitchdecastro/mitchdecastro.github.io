@@ -468,7 +468,7 @@ body {
   font-weight: 500;
   font-family: "Work Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #2D2D3C;
-  background: #EDEDED;
+  background: #fff;
   }
 
 ::selection{
@@ -826,13 +826,6 @@ there.
 /* ——————————————— END SKELETON CSS —————————————— */
 
 /* ——————————————— START CUSTOM CSS —————————————— */
-
-/* COLORS
-BLUE: #3291FF
-RED: #EC3134
-WHITE: #ededed
-HR: #E1E1E1
-*/
 
 /* TOP BAR THING */
 
