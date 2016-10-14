@@ -545,10 +545,10 @@ p {
 /* Links
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a {
-  color: #1D3868 ;
+  color: #FF3D3F ;
 }
 a:hover {
-  color: #FF3D3F;
+  color: #D13234;
   -webkit-transition: all 300ms ease-in-out;
   -moz-transition: all 300ms ease-in-out;
   -o-transition: all 300ms ease-in-out;
@@ -841,7 +841,7 @@ there.
 }
 
 #logo:hover {
-  fill: #FF3D3F;
+  fill: #D13234;
   -webkit-transition: all 300ms ease-in-out;
   -moz-transition: all 300ms ease-in-out;
   -o-transition: all 300ms ease-in-out;
