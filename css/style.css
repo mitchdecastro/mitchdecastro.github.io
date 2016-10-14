@@ -548,7 +548,7 @@ a {
   color: #FF3D3F ;
 }
 a:hover {
-  color: #D13234;
+  color: #E8383A;
   -webkit-transition: all 300ms ease-in-out;
   -moz-transition: all 300ms ease-in-out;
   -o-transition: all 300ms ease-in-out;
@@ -841,7 +841,7 @@ there.
 }
 
 #logo:hover {
-  fill: #D13234;
+  fill: #E8383A;
   -webkit-transition: all 300ms ease-in-out;
   -moz-transition: all 300ms ease-in-out;
   -o-transition: all 300ms ease-in-out;
