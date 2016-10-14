@@ -566,7 +566,7 @@ input[type="button"] {
   display: inline-block;
   height: 3.8rem;
   padding: 0 3rem;
-  color: #1D3868;
+  color: #005EAE;
   text-align: center;
   font-size: 11px;
   font-weight: 600;
@@ -577,7 +577,7 @@ input[type="button"] {
   white-space: nowrap;
   background-color: transparent;
   border-radius: 0.4rem;
-  border: 0.1rem solid #1D3868;
+  border: 0.1rem solid #005EAE;
   cursor: pointer;
   box-sizing: border-box; }
 .button:hover,
@@ -781,7 +781,7 @@ hr {
   width: 5.3rem;
   display: inline-block;
   border-width: 0;
-  border-top: 0.4rem solid #1D3868;
+  border-top: 0.4rem solid #005EAE;
   border-radius: 2rem; }
 
 /* Clearing
@@ -828,7 +828,7 @@ there.
 /* TOP BAR THING */
 
 .top {
-  background-color: #1D3868;
+  background-color: #005EAE;
   height: 1rem;
   width: 100%
 }
