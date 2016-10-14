@@ -776,13 +776,10 @@ form {
 /* Misc
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 hr {
-  margin-top: 1.5rem;
-  margin-bottom: 2.5rem;
-  width: 3rem;
+  margin: 3.5rem 0 -1.5rem 0;
+  width: 20rem;
   display: inline-block;
-  border-width: 0;
-  border-top: 0.1rem solid #005EAE;
-  border-radius: 2rem; }
+  border-top: 0.1rem solid #5684AD; }
 
 /* Clearing
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
