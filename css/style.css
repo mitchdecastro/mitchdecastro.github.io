@@ -779,7 +779,7 @@ hr {
   margin: 3.5rem 0 -1.5rem 0;
   width: 20rem;
   display: inline-block;
-  border-top: 0.1rem solid #4B4275; }
+  border-top: 0.1rem solid #5D88BA; }
 
 /* Clearing
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
@@ -891,7 +891,7 @@ there.
 /* NAV STYLES */
 
 nav {
-  padding: 5rem 0;
+  padding: 4rem 0;
   height: auto;
   align-items: center;
   display: flex;
