@@ -467,7 +467,7 @@ body {
   line-height: 1.6;
   font-weight: 500;
   font-family: "Work Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #005EAE;
+  color: #242038;
   background: #fff;
   }
 
@@ -566,7 +566,7 @@ input[type="button"] {
   display: inline-block;
   height: 3.8rem;
   padding: 0 3rem;
-  color: #005EAE;
+  color: #242038;
   text-align: center;
   font-size: 11px;
   font-weight: 600;
@@ -577,7 +577,7 @@ input[type="button"] {
   white-space: nowrap;
   background-color: transparent;
   border-radius: 0.4rem;
-  border: 0.1rem solid #005EAE;
+  border: 0.1rem solid #242038;
   cursor: pointer;
   box-sizing: border-box; }
 .button:hover,
@@ -779,7 +779,7 @@ hr {
   margin: 3.5rem 0 -1.5rem 0;
   width: 20rem;
   display: inline-block;
-  border-top: 0.1rem solid #5684AD; }
+  border-top: 0.1rem solid #4B4275; }
 
 /* Clearing
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
@@ -825,7 +825,7 @@ there.
 /* TOP BAR THING */
 
 .top {
-  background-color: #005EAE;
+  background-color: #242038;
   height: 1rem;
   width: 100%
 }
