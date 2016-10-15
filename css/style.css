@@ -467,13 +467,13 @@ body {
   line-height: 1.6;
   font-weight: 500;
   font-family: "Work Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #242038;
+  color: #0056BA;
   background: #fff;
   }
 
 ::selection{
   color: #fff;
-  background: #FF3D3F;
+  background: #0056BA;
 }
 
 /* Typography
