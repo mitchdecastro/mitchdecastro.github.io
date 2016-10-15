@@ -1,2 +1,2 @@
 # mitchdecastro.com
-mind the gap 
+built w/ skeleton + animate.css 
