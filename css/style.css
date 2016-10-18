@@ -545,10 +545,10 @@ p {
 /* Links
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a {
-  color: #FF4E50 ;
+  color: #0056BA ;
 }
 a:hover {
-  color: #E8383A;
+  color: #0056BA;
   -webkit-transition: all 300ms ease-in-out;
   -moz-transition: all 300ms ease-in-out;
   -o-transition: all 300ms ease-in-out;
@@ -869,7 +869,7 @@ there.
   text-align: center;
   height: auto;
   width: 100%;
-  border: solid .5rem #FF4E50;
+  border: solid .5rem #0056BA;
   text-decoration: none;
   padding: 1rem 0;
   display: inline-block;
@@ -982,7 +982,7 @@ nav a {
 /* CASE STUDY STYLES */
 
 .case {
-  background-color: #FF4E50;
+  background-color: #0056BA;
   height: 50rem;
   margin-top: 10rem;
 }
