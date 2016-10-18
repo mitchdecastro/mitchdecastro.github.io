@@ -825,7 +825,7 @@ there.
 /* TOP BAR THING */
 
 .top {
-  background-color: #FF3D3F;
+  background-color: #0056BA;
   height: 1rem;
   width: 100%
 }
@@ -838,7 +838,7 @@ there.
 }
 
 #logo:hover {
-  fill: #E8383A;
+  fill: #FF4E50;
   -webkit-transition: all 300ms ease-in-out;
   -moz-transition: all 300ms ease-in-out;
   -o-transition: all 300ms ease-in-out;
