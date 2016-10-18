@@ -869,7 +869,7 @@ there.
   text-align: center;
   height: auto;
   width: 100%;
-  border: solid .5rem #FF3D3F;
+  border: solid .5rem #FF4E50;
   text-decoration: none;
   padding: 1rem 0;
   display: inline-block;
@@ -982,7 +982,7 @@ nav a {
 /* CASE STUDY STYLES */
 
 .case {
-  background-color: #FF3D3F;
+  background-color: #FF4E50;
   height: 50rem;
   margin-top: 10rem;
 }
