@@ -886,6 +886,9 @@ there.
 
 .contact li {
   list-style: none;
+}
+
+.contact li a {
   color: #FF4E50;
 }
 
