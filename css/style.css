@@ -866,12 +866,6 @@ there.
   padding-right: 12.5rem;
 }
 
-.center {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
 .resume-button {
   text-align: center;
   height: auto;
