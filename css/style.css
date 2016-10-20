@@ -866,6 +866,10 @@ there.
   padding-right: 12.5rem;
 }
 
+.center {
+  text-align: center;
+}
+
 .resume-button {
   text-align: center;
   height: auto;
