@@ -467,13 +467,13 @@ body {
   line-height: 1.6;
   font-weight: 500;
   font-family: "Work Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #0056BA;
-  background: #F6EEEE;
+  color: #1F3FFF;
+  background: #FFF9F0;
   }
 
 ::selection{
-  color: #fff;
-  background: #0056BA;
+  color: #FFF9F0;
+  background: #1F3FFF;
 }
 
 /* Typography
@@ -545,10 +545,10 @@ p {
 /* Links
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a {
-  color: #0056BA ;
+  color: #1F3FFF ;
 }
 a:hover {
-  color: #FF4E50;
+  color: #FF1A3F;
   -webkit-transition: all 300ms ease-in-out;
   -moz-transition: all 300ms ease-in-out;
   -o-transition: all 300ms ease-in-out;
@@ -779,7 +779,7 @@ hr {
   margin: 3.5rem 0 -1.5rem 0;
   width: 20rem;
   display: inline-block;
-  border-top: 0.1rem solid #5D88BA; }
+  border-top: 0.1rem solid #1F3FFF; }
 
 /* Clearing
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
@@ -825,7 +825,7 @@ there.
 /* TOP BAR THING */
 
 .top {
-  background-color: #0056BA;
+  background-color: #1F3FFF;
   height: 1rem;
   width: 100%
 }
@@ -839,7 +839,7 @@ there.
 }
 
 #logo:hover {
-  fill: #FF4E50;
+  fill: #FF1A3F;
   -webkit-transition: all 300ms ease-in-out;
   -moz-transition: all 300ms ease-in-out;
   -o-transition: all 300ms ease-in-out;
@@ -870,7 +870,7 @@ there.
   text-align: center;
   height: auto;
   width: 100%;
-  border: solid .5rem #0056BA;
+  border: solid .5rem #1F3FFF;
   text-decoration: none;
   padding: 1rem 0;
   margin: 4rem 0 0 0;
@@ -891,7 +891,7 @@ there.
 }
 
 .contact li a {
-  color: #FF4E50;
+  color: #FF1A3F;
 }
 
 /* NAV STYLES */
@@ -988,7 +988,7 @@ nav a {
 /* CASE STUDY STYLES */
 
 .case {
-  background-color: #0056BA;
+  background-color: #1F3FFF;
   height: 50rem;
   margin-top: 10rem;
 }
