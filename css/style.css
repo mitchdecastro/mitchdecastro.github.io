@@ -926,6 +926,11 @@ nav ul li {
 nav a {
   font-weight: 700;
   text-decoration: none;
+  color: #FF1A3F;
+}
+
+nav, .contact a:hover {
+  color: #1F3FFF;
 }
 
 /* HERO MAIN STYLES */
