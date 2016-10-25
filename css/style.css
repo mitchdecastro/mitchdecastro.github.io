@@ -826,7 +826,7 @@ there.
 
 .top {
   background-color: #1F3FFF;
-  background-image: linear-gradient( to right, #1F3FFF, #FF1A3F );
+  background-image: linear-gradient( to right, #1F3FFF, #FF1A3F 75% );
   height: 1rem;
   width: 100%
 }
