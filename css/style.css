@@ -895,7 +895,7 @@ there.
   color: #FF1A3F;
 }
 
-.contact li a {
+.contact li a:hover {
   color: #1F3FFF;
 }
 
