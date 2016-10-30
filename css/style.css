@@ -989,7 +989,7 @@ nav a:hover {
 
 .work {
     height: 32rem;
-    width: 60rem;
+    width: auto;
     background: #1F3FFF;
 }
 
