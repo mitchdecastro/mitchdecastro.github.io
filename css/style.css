@@ -991,7 +991,8 @@ nav a:hover {
 
 /* INDEX WORK STYLES */
 
-.project {
+.project a {
+  text-decoration: none;
 }
 
 .thumbnail {
