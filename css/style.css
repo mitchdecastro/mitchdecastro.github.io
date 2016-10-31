@@ -945,6 +945,7 @@ nav a:hover {
 
 .hero-main {
     height: auto;
+    margin: 0 0 10rem 0;
 }
 
 .hero-main h1 {
@@ -996,7 +997,6 @@ nav a:hover {
 }
 
 .thumbnail {
-  margin: 10rem 0 0 0;
   height: 45rem;
   width: auto;
   background: #1F3FFF;
