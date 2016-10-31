@@ -996,7 +996,7 @@ nav a:hover {
 }
 
 .project {
-  height: 32rem;
+  height: auto;
 }
 
 .thumbnail {
