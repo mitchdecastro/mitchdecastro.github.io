@@ -995,6 +995,15 @@ nav a:hover {
     text-decoration: none;
 }
 
+.project {
+  height: 32rem;
+}
+
+.thumbnail {
+  height: 32rem;
+  background: #1F3FFF;
+}
+
 /* CASE STUDY STYLES */
 
 .case {
