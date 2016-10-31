@@ -851,20 +851,11 @@ there.
 
 .resume {
   margin-top: 4.5rem;
-  height: auto;
 }
 
 .resume a {
   text-decoration: none;
 }
-
-/* .work {
-    height: auto;
-}
-
-.work a {
-    text-decoration: none;
-} */
 
 .description {
   padding-right: 12.5rem;
