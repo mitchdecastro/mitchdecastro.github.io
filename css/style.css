@@ -913,7 +913,7 @@ nav {
   justify-content: space-between;
 }
 
-@media (max-width: 350px) {
+@media (max-width: 625px) {
   nav {
     padding: 1.5rem 0;
   }
