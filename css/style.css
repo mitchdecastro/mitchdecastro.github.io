@@ -960,6 +960,12 @@ nav a:hover {
     }
 }
 
+@media (max-width: 625px) {
+  .hero-main {
+    margin: 0 0 5rem 0;
+  }
+}
+
 .hero-main ul {
     list-style: none;
 }
