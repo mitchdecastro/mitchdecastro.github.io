@@ -992,6 +992,10 @@ nav a:hover {
 
 /* INDEX WORK STYLES */
 
+.project {
+  margin: 0 0 10rem 0;
+}
+
 .project a {
   text-decoration: none;
 }
