@@ -995,7 +995,7 @@ nav a:hover {
 }
 
 .thumbnail {
-  margin: 18rem;
+  margin: 18rem 0 0 0;
   height: 40rem;
   width: auto;
   background: #1F3FFF;
