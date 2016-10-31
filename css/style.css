@@ -1006,6 +1006,12 @@ nav a:hover {
   background: #1F3FFF;
 }
 
+@media (max-width: 625px) {
+    .thumbnail {
+      height: 34rem;
+    }
+}
+
 /* CASE STUDY STYLES */
 
 .case {
