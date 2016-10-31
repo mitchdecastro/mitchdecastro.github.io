@@ -988,7 +988,7 @@ nav a:hover {
 /* INDEX WORK STYLES */
 
 .work {
-    height: 32rem;
+    height: auto;
 }
 
 .work a {
