@@ -822,7 +822,7 @@ there.
 
 /* ——————————————— START CUSTOM CSS —————————————— */
 
-/* TOP BAR THING */
+/* TOP BAR */
 
 .top {
   background-color: #1F3FFF;
@@ -851,7 +851,20 @@ there.
 
 .resume {
   margin-top: 4.5rem;
+  height: auto;
 }
+
+.resume a {
+  text-decoration: none;
+}
+
+/* .work {
+    height: auto;
+}
+
+.work a {
+    text-decoration: none;
+} */
 
 .description {
   padding-right: 12.5rem;
@@ -986,14 +999,6 @@ nav a:hover {
 }
 
 /* INDEX WORK STYLES */
-
-.work {
-    height: auto;
-}
-
-.work a {
-    text-decoration: none;
-}
 
 .project {
 }
