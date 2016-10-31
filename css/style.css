@@ -1001,6 +1001,7 @@ nav a:hover {
 
 .thumbnail {
   height: 32rem;
+  width: auto;
   background: #1F3FFF;
 }
 
