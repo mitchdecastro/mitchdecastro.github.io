@@ -371,7 +371,7 @@ textarea {
 .container {
   position: relative;
   width: 100%;
-  max-width: 1000px;
+  max-width: 1100px;
   margin: 0 auto;
   padding: 0 20px;
   box-sizing: border-box; }
@@ -954,7 +954,7 @@ nav a:hover {
     font-weight: 500;
 }
 
-@media (max-width: 1000px) {
+@media (max-width: 1100px) {
     .hero-main h1 {
       padding-top: 0rem;
     }
