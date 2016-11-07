@@ -903,6 +903,10 @@ there.
   color: #1F3FFF;
 }
 
+.social a {
+  text-decoration: none;
+}
+
 /* NAV STYLES */
 
 nav {
@@ -994,6 +998,10 @@ nav a:hover {
 .about a {
     text-decoration: none;
     font-weight: 700;
+}
+
+.profile {
+  margin: 0 0 4rem 0;
 }
 
 /* INDEX WORK STYLES */
