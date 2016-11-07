@@ -996,8 +996,8 @@ nav a:hover {
 }
 
 .about a {
-    text-decoration: none;
-    font-weight: 700;
+    /* text-decoration: none;
+     font-weight: 700; */
 }
 
 .profile {
