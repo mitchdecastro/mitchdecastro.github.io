@@ -974,6 +974,23 @@ nav a:hover {
   margin: 0 0 2rem 0;
 }
 
+.profile img {
+  border-radius: 10rem;
+  height: 12rem;
+  width: 12rem;
+}
+
+@media (max-width: 625px) {
+  .profile {
+    text-align: center;
+  }
+
+  .profile img {
+    height: 16rem;
+    width: 16rem;
+  }
+}
+
 /* INDEX WORK STYLES */
 
 .project {
