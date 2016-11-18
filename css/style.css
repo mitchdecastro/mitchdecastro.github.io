@@ -549,18 +549,6 @@ input[type="button"] {
   box-sizing: border-box;
   margin-top: 4rem; }
 
-/*
-  text-align: center;
-  height: auto;
-  width: 100%;
-  outline: solid .5rem #1F3FFF;
-  padding: 1rem 0;
-  margin: 4rem 0 0 0;
-  display: inline-block;
-  font-weight: 700;
-
-  */
-
 .button:hover,
 button:hover,
 input[type="submit"]:hover,
@@ -574,10 +562,10 @@ input[type="button"]:focus {
   color: #FF1A3F;
   background-color: transparent;
   outline: 0.5rem solid #FF1A3F;
-  -webkit-transition: 0.2s ease;
-  -moz-transition: 0.2s ease;
-  -o-transition: 0.2s ease;
-  transition: 0.2s ease;
+  -webkit-transition: 400ms ease;
+  -moz-transition: 400ms ease;
+  -o-transition: 400ms ease;
+  transition: 400ms ease;
  }
 .button.button-primary,
 button.button-primary,
