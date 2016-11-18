@@ -845,16 +845,23 @@ there.
   text-align: center;
   height: auto;
   width: 100%;
-  border: solid .5rem #1F3FFF;
-  text-decoration: none;
+  outline: solid .5rem #1F3FFF;
   padding: 1rem 0;
   margin: 4rem 0 0 0;
   display: inline-block;
   font-weight: 700;
 }
 
+.resume-button a{
+  text-decoration: none;
+}
+
 .resume-button:hover {
-  border: solid .5rem
+  outline: solid .5rem #FF1A3F;
+  -webkit-transition: all 300ms ease-in-out;
+  -moz-transition: all 300ms ease-in-out;
+  -o-transition: all 300ms ease-in-out;
+  transition: all 300ms ease-in-out;
 }
 
 .contact {
