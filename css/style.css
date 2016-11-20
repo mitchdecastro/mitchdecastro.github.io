@@ -1021,10 +1021,8 @@ nav a:hover {
 
 /* CASE STUDY STYLES */
 
-.case {
-  background-color: #1F3FFF;
-  height: 50rem;
-  margin-top: 10rem;
+.case-main {
+  margin: 0 0 10rem 0;
 }
 
 .case-main a {
@@ -1033,6 +1031,12 @@ nav a:hover {
 
 .case-main h1 {
   padding-top: 5rem;
+}
+
+@media (max-width: 625px) {
+  .case-main {
+    margin: 0 0 5rem 0;
+  }
 }
 
 /* FOOTER STYLES */
