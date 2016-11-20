@@ -1014,7 +1014,7 @@ nav a:hover {
   height: 45rem;
   width: auto;
   background: #1F3FFF;
-}
+} 
 
 @media (max-width: 625px) {
     .thumbnail {
