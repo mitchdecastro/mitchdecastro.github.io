@@ -1037,6 +1037,10 @@ nav a:hover {
   .case-main {
     margin: 0 0 5rem 0;
   }
+
+  .case-main h1 {
+    padding-top: 0rem;
+  }
 }
 
 /* FOOTER STYLES */
