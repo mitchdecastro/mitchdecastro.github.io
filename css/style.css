@@ -517,6 +517,7 @@ p {
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a {
   color: #1F3FFF ;
+  text-decoration: none;
 }
 a:hover {
   color: #FF1A3F;
@@ -971,8 +972,8 @@ nav a:hover {
 }
 
 .about a {
-    /* text-decoration: none;
-     font-weight: 700; */
+    text-decoration: none;
+    font-weight: 700;
 }
 
 .profile {
