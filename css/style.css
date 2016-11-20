@@ -1027,6 +1027,10 @@ nav a:hover {
   margin-top: 10rem;
 }
 
+.case a {
+  font-weight: 700;
+}
+
 .case-main h1 {
   padding-top: 5rem;
 }
