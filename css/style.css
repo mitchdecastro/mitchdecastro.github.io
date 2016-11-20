@@ -1011,14 +1011,11 @@ nav a:hover {
 }
 
 .thumbnail {
-  width: 100%;
+  display: block;
 }
 
 .thumbnail img {
-  display: block;
-/*  height: 45rem;
-  width: auto;
-  background: #1F3FFF; */
+  width: 100%;
 }
 
 /* @media (max-width: 625px) {
