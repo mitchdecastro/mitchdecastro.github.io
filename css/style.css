@@ -962,7 +962,7 @@ nav a:hover {
 /* ABOUT STYLES */
 
 .about {
-    margin: -2rem 0 0 0;
+    margin: 4rem 0 0 0;
 }
 
 .about h2 {
@@ -993,6 +993,10 @@ nav a:hover {
   .profile img {
     height: 16rem;
     width: 16rem;
+  }
+
+  .about {
+    margin: -2rem 0 0 0;
   }
 }
 
