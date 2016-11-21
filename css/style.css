@@ -1019,6 +1019,10 @@ nav a:hover {
   width: 100%;
 }
 
+.thumbnail:hover{
+  opacity: 0.9;
+}
+
 /* CASE STUDY STYLES */
 
 .case-main {
