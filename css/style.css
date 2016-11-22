@@ -1042,6 +1042,11 @@ nav a:hover {
   font-weight: 700;
 }
 
+.video p {
+  margin: 2rem 0 0 0;
+  text-align: center;
+}
+
 @media (max-width: 625px) {
   .case-main {
     margin: 0 0 5rem 0;
