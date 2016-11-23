@@ -1019,6 +1019,10 @@ nav a:hover {
   width: 100%;
 }
 
+.thumbnail p {
+  text-align: center;
+}
+
 /* .thumbnail img:hover{
   opacity: 0.9;
   -webkit-transition: all 300ms ease-in-out;
