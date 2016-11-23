@@ -391,7 +391,7 @@ textarea {
 /* For devices larger than 550px */
 @media (min-width: 768px) {
   .container {
-    width: 80%; }
+    width: 85%; }
   .column,
   .columns {
     margin-left: 4%; }
