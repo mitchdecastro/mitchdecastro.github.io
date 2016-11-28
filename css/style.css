@@ -753,7 +753,7 @@ form {
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 hr {
   margin: 3.5rem 0 0 0;
-  width: 20rem;
+  width: 100%;
   border-top: 0.1rem solid #FF1A3F; }
 
 /* Clearing
