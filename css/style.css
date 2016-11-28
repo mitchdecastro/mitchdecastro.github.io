@@ -832,6 +832,10 @@ there.
   text-decoration: none;
 }
 
+.resume-list ul{
+  margin-bottom: -2rem;
+}
+
 .description {
   padding-right: 12.5rem;
   margin-bottom: 0;
