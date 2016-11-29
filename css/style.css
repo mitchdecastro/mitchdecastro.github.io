@@ -1023,6 +1023,11 @@ nav a:hover {
   text-decoration: none;
 }
 
+.project hr {
+  margin: 2.5rem 0 0 0;
+  width: 25%;
+}
+
 .thumbnail {
   display: block;
 }
