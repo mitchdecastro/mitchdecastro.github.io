@@ -548,7 +548,7 @@ input[type="button"] {
   outline: 0.5rem solid #1F3FFF;
   cursor: pointer;
   box-sizing: border-box;
-  margin-top: 4rem; }
+  margin-top: 8rem; }
 
 .button:hover,
 button:hover,
