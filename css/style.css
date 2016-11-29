@@ -991,9 +991,10 @@ nav a:hover {
 }
 
 .profile img {
-  border-radius: 10rem;
-  height: 12rem;
-  width: 12rem;
+  border-radius: 20rem;
+  height: 100%;
+  width: 100%;
+  margin-top: 5.5rem;
 }
 
 @media (max-width: 768px) {
@@ -1002,8 +1003,9 @@ nav a:hover {
   }
 
   .profile img {
-    height: 16rem;
-    width: 16rem;
+    height: 20rem;
+    width: 20rem;
+    margin-top: -3.5rem;
   }
 
   .about {
