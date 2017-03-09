@@ -1,2 +1,2 @@
-# mitchdecastro.com
-built w/ skeleton + animate.css 
+# www.mitchdecastro.com
+built w/ skeleton + animate.css
