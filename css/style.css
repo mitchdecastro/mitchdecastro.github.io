@@ -1086,7 +1086,7 @@ footer {
 
 /* Small Devices, Tablets */
 
-/* @media only screen and (max-width : 768px) {
+@media only screen and (max-width : 768px) {
   .animated {
 
     -o-transition-property: none !important;
@@ -1107,7 +1107,7 @@ footer {
     -ms-animation: none !important;
     animation: none !important;
   }
-} */
+}
 
 /* ——————————————— END CUSTOM CSS —————————————— */
 
