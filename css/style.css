@@ -932,7 +932,7 @@ nav ul li {
 }
 
 nav a {
-  font-weight: 500;
+  font-weight: 700;
   text-decoration: none;
   color: #191919;
 }
@@ -975,7 +975,7 @@ nav a:hover {
 }
 
 .hero-main a {
-    font-weight: 500;
+    font-weight: 700;
     letter-spacing: 0.5px;
     text-decoration: underline;
 }
@@ -1030,7 +1030,7 @@ nav a:hover {
 
 .project a {
   text-decoration: none;
-  font-weight: 500;
+  font-weight: 700;
 }
 
 .project hr {
@@ -1070,7 +1070,7 @@ nav a:hover {
 }
 
 .case-main a {
-  font-weight: 500;
+  font-weight: 700;
 }
 
 .case-main h1 {
