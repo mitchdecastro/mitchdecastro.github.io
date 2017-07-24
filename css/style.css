@@ -977,7 +977,6 @@ nav a:hover {
 .hero-main a {
     font-weight: 700;
     letter-spacing: 0.5px;
-    text-decoration: underline;
 }
 
 /* ABOUT STYLES */
@@ -992,7 +991,7 @@ nav a:hover {
 }
 
 .about a {
-    text-decoration: underline;
+    font-weight: 700;
 }
 
 .profile {
