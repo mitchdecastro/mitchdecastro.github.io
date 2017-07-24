@@ -519,10 +519,12 @@ p {
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a {
   color: #191919;
+  text-decoration: none;
 }
 
 a:hover {
   /*color: #FF1A3F;*/
+  text-decoration: none;
   -webkit-transition: all 300ms ease-in-out;
   -moz-transition: all 300ms ease-in-out;
   -o-transition: all 300ms ease-in-out;
