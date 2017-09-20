@@ -467,13 +467,13 @@ body {
   line-height: 1.6;
   font-weight: 500;
   font-family: "Work Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #191919;
+  color: #545454;
   background: #FFF9F0;
   }
 
 ::selection{
   color: #FFF9F0;
-  background: #191919;
+  background: #545454;
 }
 
 /* Typography
@@ -519,7 +519,7 @@ p {
 /* Links
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a {
-  color: #191919;
+  color: #545454;
   text-decoration: none;
 }
 
@@ -814,12 +814,10 @@ there.
 /* LOGO */
 
 .logo {
-  display: inline-block;
-  float: left;
+  text-align: center;
 }
 
 #logo:hover {
-  fill: #FF1A3F;
   -webkit-transition: all 300ms ease-in-out;
   -moz-transition: all 300ms ease-in-out;
   -o-transition: all 300ms ease-in-out;
@@ -909,7 +907,7 @@ there.
 /* NAV STYLES */
 
 nav {
-  padding: 2rem 0 6rem 0;
+  padding: 6rem 0 1rem 0;
   height: auto;
   align-items: center;
   display: flex;
@@ -948,10 +946,10 @@ nav a:hover {
 .hero-main {
     height: auto;
     margin: 0 0 10rem 0;
+    text-align: center;
 }
 
 .hero-main h1 {
-    padding-top: 8rem;
     line-height: 1.5;
     font-weight: 500;
 }
@@ -979,7 +977,8 @@ nav a:hover {
 .hero-main li {
     display: inline-block;
     padding: 0 2rem 0 0;
-    font-size: 2.4rem;
+    font-size: 2.0rem;
+    font-weight: 700;
 }
 
 .hero-main a {
@@ -1103,6 +1102,7 @@ nav a:hover {
 
 footer {
   padding-top: 10rem;
+  text-align: center;
 }
 
 /* Small Devices, Tablets */
