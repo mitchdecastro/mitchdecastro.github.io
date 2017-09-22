@@ -468,7 +468,7 @@ body {
   font-weight: 500;
   font-family: "Work Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #545454;
-  background: #FFF9F0;
+  background: #FFFBF7;
   }
 
 ::selection{
@@ -757,9 +757,17 @@ form {
 /* Misc
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 hr {
-  margin: 3.5rem 0 0 0;
+  /* margin: 3.5rem 0 0 0;
   width: 100%;
-  border-top: 0rem #FFF9F0; }
+  border-top: 0rem #FFF9F0; */
+
+  height: .25rem;
+  width: 25%;
+  margin: 0;
+  background: tomato;
+  border: none;
+  transition: .3s ease-in-out;
+ }
 
 /* Clearing
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
@@ -818,90 +826,7 @@ there.
 }
 
 #logo:hover {
-  -webkit-transition: all 300ms ease-in-out;
-  -moz-transition: all 300ms ease-in-out;
-  -o-transition: all 300ms ease-in-out;
   transition: all 300ms ease-in-out;
-}
-
-/* RESUME STYLES */
-
-.resume {
-  margin-top: 1rem;
-  position: relative;
-}
-
-.resume a {
-  text-decoration: none;
-}
-
-.resume-list ul{
-  margin-bottom: -2rem;
-}
-
-.resume h2 {
-  font-weight: 700;
-}
-
-.resume h4 {
-  font-weight: 700;
-}
-
-.description {
-  padding-right: 12.5rem;
-  margin-bottom: 0;
-}
-
-@media (max-width: 550px) {
-  .description { padding-right: 2rem;
-  }
-}
-
-.description-2 {
-  padding-right: 12.5rem;
-}
-
-.resume-button {
-  text-align: center;
-  height: auto;
-  width: 100%;
-  outline: solid .5rem #1F3FFF;
-  padding: 1rem 0;
-  margin: 4rem 0 0 0;
-  display: inline-block;
-  font-weight: 500;
-}
-
-.resume-button a{
-  text-decoration: none;
-}
-
-.resume-button:hover {
-  outline: solid .5rem #FF1A3F;
-  -webkit-transition: all 300ms ease-in-out;
-  -moz-transition: all 300ms ease-in-out;
-  -o-transition: all 300ms ease-in-out;
-  transition: all 300ms ease-in-out;
-}
-
-.contact {
-  margin: 0 0 0 -1.5rem;
-}
-
-.contact li {
-  list-style: none;
-}
-
-.contact li a {
-  color: #FF1A3F;
-}
-
-.contact li a:hover {
-  color: #1F3FFF;
-}
-
-.social a {
-  text-decoration: none;
 }
 
 /* NAV STYLES */
@@ -916,7 +841,7 @@ nav {
 
 @media (max-width: 768px) {
   nav {
-    padding: 0 0 5rem 0;
+    padding: 4rem 0 0 0;
   }
 }
 
@@ -939,6 +864,21 @@ nav a {
 
 nav a:hover {
   color: #191919;
+}
+
+.work a:hover {
+  color: #FF7272;
+  transition: all 300ms ease-in-out;
+}
+
+.email a:hover{
+  color: #A0DCFF;
+  transition: all 300ms ease-in-out;
+}
+
+.resume a:hover {
+  color: #FFE96D;
+  transition: all 300ms ease-in-out;
 }
 
 /* HERO MAIN STYLES */
@@ -976,7 +916,7 @@ nav a:hover {
 
 .hero-main li {
     display: inline-block;
-    padding: 0 2rem 0 0;
+    padding: 0 2rem 0 2rem;
     font-size: 2.0rem;
     font-weight: 700;
 }
@@ -986,7 +926,6 @@ nav a:hover {
 }
 
 .hero-main a:hover {
-    text-decoration: underline;
 }
 
 /* ABOUT STYLES */
