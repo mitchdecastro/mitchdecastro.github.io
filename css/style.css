@@ -467,13 +467,13 @@ body {
   line-height: 1.6;
   font-weight: 500;
   font-family: "Work Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #545454;
-  background: #FFFBF7;
+  color: #ffffff;
+  background: #191919;
   }
 
 ::selection{
-  color: #FFF9F0;
-  background: #545454;
+  color: #191919;
+  background: #ffffff;
 }
 
 /* Typography
@@ -519,7 +519,7 @@ p {
 /* Links
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a {
-  color: #545454;
+  color: #ffffff;
   text-decoration: none;
 }
 
@@ -822,7 +822,6 @@ there.
 /* LOGO */
 
 .logo {
-  text-align: center;
 }
 
 #logo:hover {
@@ -886,17 +885,17 @@ nav a:hover {
 .hero-main {
     height: auto;
     margin: 0 0 10rem 0;
-    text-align: center;
 }
 
 .hero-main h1 {
     line-height: 1.5;
     font-weight: 500;
+    padding-top: 10rem;
 }
 
 @media (max-width: 1100px) {
     .hero-main h1 {
-      padding-top: 2rem;
+      padding-top: 5rem;
     }
 }
 
@@ -911,12 +910,10 @@ nav a:hover {
 }
 
 .hero-main ul {
-    list-style: none;
 }
 
 .hero-main li {
-    display: inline-block;
-    padding: 0 2rem 0 2rem;
+    padding: 0 3rem 0 0;
     font-size: 2.0rem;
     font-weight: 700;
 }
@@ -926,6 +923,7 @@ nav a:hover {
 }
 
 .hero-main a:hover {
+  text-decoration: underline;
 }
 
 /* ABOUT STYLES */
@@ -1040,8 +1038,7 @@ nav a:hover {
 /* FOOTER STYLES */
 
 footer {
-  padding-top: 10rem;
-  text-align: center;
+  padding-top: 6rem;
 }
 
 /* Small Devices, Tablets */
