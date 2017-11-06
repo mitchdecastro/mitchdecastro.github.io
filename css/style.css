@@ -467,13 +467,13 @@ body {
   line-height: 1.6;
   font-weight: 500;
   font-family: "Work Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #ffffff;
-  background: #191919;
+  color: #1F3FFF;
+  background: #FFF9F0;
   }
 
 ::selection{
-  color: #191919;
-  background: #ffffff;
+  color: #FFF9F0;
+  background: #1F3FFF;
 }
 
 /* Typography
@@ -519,7 +519,7 @@ p {
 /* Links
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a {
-  color: #ffffff;
+  color: #1F3FFF;
   text-decoration: none;
 }
 
@@ -884,7 +884,8 @@ nav a:hover {
 
 .hero-main {
     height: auto;
-    margin: 0 0 10rem 0;
+    margin: 30rem 0 10rem 0;
+    text-align: center;
 }
 
 .hero-main h1 {
@@ -901,7 +902,7 @@ nav a:hover {
 
 @media (max-width: 768px) {
   .hero-main {
-    margin: 0 0 5rem 0;
+    margin: 20rem 0 5rem 0;
   }
 
   .hero-main li a {
