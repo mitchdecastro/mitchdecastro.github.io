@@ -886,6 +886,7 @@ nav a:hover {
     height: auto;
     margin: 30rem 0 10rem 0;
     text-align: center;
+    line-height: 3.2rem;
 }
 
 .hero-main h1 {
