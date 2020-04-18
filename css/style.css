@@ -460,14 +460,15 @@ html is set to 62.5% so that all the REM measurements throughout Skeleton
 are based on 10px sizing. So basically 1.5rem = 15px :) */
 html {
   font-size: 62.5%;
-  background: linear-gradient(-75deg, #FFC6DB, #A0DCFF, #FFE96D) no-repeat fixed;
-  background-repeat: no-repeat; }
+  background: #191919;
+  /* background: linear-gradient(-75deg, #FFC6DB, #A0DCFF, #FFE96D) no-repeat fixed;
+background-repeat: no-repeat;*/ }
 body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-size: 2.4em; /* currently ems cause chrome bug misinterpreting rems on body element */
   line-height: 1.6;
-  font-weight: 500;
+  font-weight: 400;
   font-family: -apple-system, BlinkMacSystemFont, sans-serif;
   color: #1F3FFF;
   }
@@ -514,7 +515,10 @@ h6 { font-size: 1.5rem; line-height: 1.6;  letter-spacing: 0; }
 }
 
 p {
-  font-size: 1.8rem;
+  font-size: 2rem;
+  background: -webkit-linear-gradient(72deg, #FFE96D, #A0DCFF, #FFC6DB);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
   margin-top: 0; }
 
 /* Links
@@ -526,7 +530,7 @@ a {
 
 a:hover {
   /*color: #FF1A3F;*/
-  text-decoration: none;
+  text-decoration: underline;
   -webkit-transition: all 300ms ease-in-out;
   -moz-transition: all 300ms ease-in-out;
   -o-transition: all 300ms ease-in-out;
