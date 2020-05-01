@@ -460,7 +460,7 @@ html is set to 62.5% so that all the REM measurements throughout Skeleton
 are based on 10px sizing. So basically 1.5rem = 15px :) */
 html {
   font-size: 62.5%;
-  background: #191919;
+  background: #03000e;
   /* background: linear-gradient(-75deg, #FFC6DB, #A0DCFF, #FFE96D) no-repeat fixed;
 background-repeat: no-repeat;*/ }
 body {
@@ -863,11 +863,11 @@ nav ul li {
 nav a {
   font-weight: 700;
   text-decoration: none;
-  color: #191919;
+  color: #03000e;
 }
 
 nav a:hover {
-  color: #191919;
+  color: #03000e;
 }
 
 .work a:hover {
@@ -992,7 +992,7 @@ nav a:hover {
 
 .thumbnail {
   display: block;
-  background: #191919;
+  background: #03000e;
   height: 40rem;
 }
 
