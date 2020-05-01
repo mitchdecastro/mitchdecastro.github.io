@@ -516,7 +516,7 @@ h6 { font-size: 1.5rem; line-height: 1.6;  letter-spacing: 0; }
 
 p {
   font-size: 2rem;
-  background: -webkit-linear-gradient(72deg, #FFE96D, #A0DCFF, #FFC6DB);
+  background: -webkit-linear-gradient(72deg, #FFE348, #68C7FF, #FF7FAD);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   margin-top: 0; }
