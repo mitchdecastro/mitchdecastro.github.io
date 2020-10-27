@@ -886,7 +886,7 @@ nav a:hover {
 
 .hero-main {
     height: auto;
-    margin: 30rem 0 10rem 0;
+    margin: 10rem 0 10rem 0;
     text-align: left;
     line-height: 3.2rem;
 }
@@ -905,7 +905,7 @@ nav a:hover {
 
 @media (max-width: 768px) {
   .hero-main {
-    margin: 20rem 0 5rem 0;
+    margin: 10rem 0 5rem 0;
   }
 
   .hero-main li a {
