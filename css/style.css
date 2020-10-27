@@ -905,7 +905,7 @@ nav a:hover {
 
 @media (max-width: 768px) {
   .hero-main {
-    margin: 8rem 0 0 0;
+    margin: 4rem 0 0 0;
   }
 
   .hero-main li a {
