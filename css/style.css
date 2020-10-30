@@ -1039,6 +1039,12 @@ nav a:hover {
   }
 }
 
+
+.work {
+  height: auto;
+  background: #1F3FFF;
+}
+
 /* FOOTER STYLES */
 
 footer {
