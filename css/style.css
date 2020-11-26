@@ -486,7 +486,8 @@ body {
   src: url('fonts/untitled-sans-web-regular.woff2') format('woff2'),
      url('fonts/untitled-sans-web-regular.woff') format('woff'),
      url('fonts/untitled-sans-web-regular.eot'),
-     url('fonts/untitled-sans-web-regular.eot?#iefix') format('embedded-opentype');
+     url('fonts/untitled-sans-web-regular.eot?#iefix') format('embedded-opentype'),
+     url('fonts/untitled-sans-regular.ttf') format('truetype');
 }
 
 h1, h2, {
