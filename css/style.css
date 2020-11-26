@@ -461,15 +461,15 @@ are based on 10px sizing. So basically 1.5rem = 15px :) */
 html {
   font-size: 62.5%;
   background: #FFF9F0;
-  /* background: linear-gradient(-75deg, #FFC6DB, #A0DCFF, #FFE96D) no-repeat fixed;
-background-repeat: no-repeat;*/ }
+}
+
 body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-size: 2.4em; /* currently ems cause chrome bug misinterpreting rems on body element */
   line-height: 1.6;
   font-weight: 400;
-  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  font-family: "Untitled Sans", -apple-system, BlinkMacSystemFont, sans-serif;
   color: #1F3FFF;
   }
 
@@ -480,6 +480,14 @@ body {
 
 /* Typography
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+@font-face {
+  font-family: "Untitled Sans";
+  src: url('fonts/untitled-sans-web-regular.woff2') format('woff2'),
+     url('fonts/untitled-sans-web-regular.woff') format('woff'),
+     url('fonts/untitled-sans-web-regular.eot'),
+     url('fonts/untitled-sans-web-regular.eot?#iefix') format('embedded-opentype');
+}
 
 h1, h2, {
   margin: 0 0 2rem 0;
