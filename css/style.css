@@ -4,6 +4,18 @@
  * 1. Change the default font family in all browsers (opinionated).
  * 2. Prevent adjustments of font size after orientation changes in IE and iOS.
  */
+
+@font-face {
+   font-family: 'Untitled Sans';
+   src: url('fonts/untitled-sans-web-regular.woff2') format('woff2'),
+      url('fonts/untitled-sans-web-regular.woff') format('woff'),
+      url('fonts/untitled-sans-web-regular.eot'),
+      url('fonts/untitled-sans-web-regular.eot?#iefix') format('embedded-opentype'),
+      url('fonts/untitled-sans-regular.ttf') format('truetype');
+      font-weight: normal;
+      font-style: normal;
+}
+
 html {
   font-family: 'Untitled Sans', sans-serif; /* 1 */
   -ms-text-size-adjust: 100%; /* 2 */
@@ -480,17 +492,6 @@ body {
 
 /* Typography
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
-
-@font-face {
-  font-family: 'Untitled Sans';
-  src: url('fonts/untitled-sans-web-regular.woff2') format('woff2'),
-     url('fonts/untitled-sans-web-regular.woff') format('woff'),
-     url('fonts/untitled-sans-web-regular.eot'),
-     url('fonts/untitled-sans-web-regular.eot?#iefix') format('embedded-opentype'),
-     url('fonts/untitled-sans-regular.ttf') format('truetype');
-     font-weight: normal;
-     font-style: normal;
-}
 
 h1, h2, {
   margin: 0 0 2rem 0;
