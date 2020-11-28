@@ -6,7 +6,7 @@
  */
 
 @font-face {
-   font-family: 'Untitled Sans Regular';
+   font-family: 'Untitled Sans';
    src: url('fonts/untitled-sans-web-regular.woff2') format('woff2'),
       url('fonts/untitled-sans-web-regular.woff') format('woff'),
       url('fonts/untitled-sans-web-regular.eot'),
@@ -17,7 +17,7 @@
 }
 
 html {
-  font-family: 'Untitled Sans Regular', sans-serif; /* 1 */
+  font-family: sans-serif; /* 1 */
   -ms-text-size-adjust: 100%; /* 2 */
   -webkit-text-size-adjust: 100%; /* 2 */
 }
@@ -481,7 +481,7 @@ body {
   font-size: 2.4em; /* currently ems cause chrome bug misinterpreting rems on body element */
   line-height: 1.6;
   font-weight: 400;
-  font-family: "Untitled Sans Regular",-apple-system, BlinkMacSystemFont, sans-serif;
+  font-family: "Untitled Sans",-apple-system, BlinkMacSystemFont, sans-serif;
   color: #1F3FFF;
   }
 
